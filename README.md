@@ -1,3 +1,3 @@
-# cls_tovo_mock_api
+# cls_mock_api
 
-Mock API for Autonomous Collections
+Mock API to provide sample data for Internship 2020.
