@@ -21,7 +21,7 @@
       "totalBrokenPromises": 1,
       "pastDueBucketDocumentCount": [2, 1, 0, 1, 0, 0],
       "pastDueBucketDocumentAmount": [
-        -210.0,
+        210.0,
         261.0,
         0.0,
         1673.0,
