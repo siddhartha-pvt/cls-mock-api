@@ -1,5 +1,6 @@
 {
     "total": 6,
+    "bucketNames": ["1-30", "31-60", "61-90", ">91"],
     "customer": [{
             "companyCode": "82",
             "pastdue_bucket3_amount": 844.0,
